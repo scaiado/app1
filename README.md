@@ -1,2 +1,2 @@
 # app1
-reverse calculator game
+first game
